@@ -20,10 +20,20 @@ An interactive Power BI dashboard project exploring trends and challenges in dat
 
 ## 🔍 Insights
 This project helps understand:
-- The gender gap in data roles
-- The average age and salary by role
-- Popular tools and languages across roles
+-The Gender Gap in Data Roles
+  Analysis revealed a significant gender gap in data-related roles globally,
+  with women occupying only 25.71% of these positions compared to 74.29% held
+  by men. This highlights ongoing gender imbalance in the field and underscores
+  the need for more inclusive hiring practices.
+- Breaking into Data:
+  Most career switchers found the transition challenging —
+  60% said it was “difficult” or “very difficult,” while only 30% found it easy.
+  A large group (269) felt neutral, showing that the experience depends heavily
+  on individual background and support.
 - Global hotspots for data salaries
+  While Africa has a large number of data professionals, salaries in the region remain the lowest globally 
+  ranging between $20k to $75.5k. In contrast, roles in North America and Europe reach up to $225k.
+  Despite growing demand, African professionals face a significant pay gap, highlighting global inequality in tech compensation.
 
 ## 📜 License
 MIT License
