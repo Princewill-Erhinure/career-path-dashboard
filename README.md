@@ -15,7 +15,7 @@ An interactive Power BI dashboard project exploring trends and challenges in dat
 
 
 ## 📸 Sample Visuals
-<img width="686" alt="Image" src="https://github.com/user-attachments/assets/2ea2dc3f-d473-4b52-8f4d-c7ba0c998b6e" />
+<img width="632" alt="Image" src="https://github.com/user-attachments/assets/4cfaee05-3e79-434c-bc51-83e601b1cb5d" />
 <img width="685" alt="Image" src="https://github.com/user-attachments/assets/420b4366-2f63-49c2-a37a-ecfa30b23d27" />
 
 ## 🔍 Insights
