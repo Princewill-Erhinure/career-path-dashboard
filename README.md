@@ -31,9 +31,8 @@ This project helps understand:
   A large group (269) felt neutral, showing that the experience depends heavily
   on individual background and support.
 - Global hotspots for data salaries
-  While Africa has a large number of data professionals, salaries in the region remain the lowest globally 
-  ranging between $20k to $75.5k. In contrast, roles in North America and Europe reach up to $225k.
-  Despite growing demand, African professionals face a significant pay gap, highlighting global inequality in tech compensation.
+  The United States leads globally with 261 data professionals, earning between $20k and $225k. India follows with 73 professionals (up to $137.5k),
+  then the UK with 40 ($95.5k), Canada with 32 ($187.5k), and Nigeria with 30 — the lowest top-range salary at $75.5k. This ranking shows that while   countries like Nigeria and India contribute significantly to the global data workforce, they face major salary disparities compared to Western countries.
 
 ## 📜 License
 MIT License
